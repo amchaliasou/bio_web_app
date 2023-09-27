@@ -1,0 +1,18 @@
+
+.search {
+  width: 80%;
+}
+
+.search .ant-input {
+  border-color: #fff;
+}
+
+.search  .ant-select-selection-placeholder{
+  color: white;
+}
+.search .ant-input-search-button {
+  color: #fff;
+  background-color: #72a5b4;
+  border-color: #fff;
+  box-shadow: 0 2px 0 rgba(5, 145, 255, 0.1);
+}

@@ -1,0 +1,35 @@
+.login-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+h1 {
+    font-size: 30px; 
+    color: #72a5b4; 
+    padding: 0; 
+    margin-bottom: 50px;
+}
+
+.login-wrapper .login-form{
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center !important;
+    flex-direction: column;
+}
+
+.login-wrapper .login-form .ant-form-item-control-input-content {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+}
+  
+.login-wrapper .login-form button {
+    margin-top: 50px;
+}
